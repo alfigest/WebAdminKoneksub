@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4194685f.css",
+    "main.js": "/static/js/main.341607dd.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.fc10ccf11a61bac919b9.ttf",
+    "static/media/OpenSans-ExtraBold.ttf": "/static/media/OpenSans-ExtraBold.7a42b1f780edcefed802.ttf",
+    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.ec993defe70da9dbbc3f.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.d31d0aaa8d4384de5eeb.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.9ccd5e1b1dbea150336d.ttf",
+    "static/media/OpenSans-ExtraBoldItalic.ttf": "/static/media/OpenSans-ExtraBoldItalic.fc90f333646727a94dd1.ttf",
+    "static/media/OpenSans-BoldItalic.ttf": "/static/media/OpenSans-BoldItalic.4325a9675a318be7dca4.ttf",
+    "static/media/OpenSans-LightItalic.ttf": "/static/media/OpenSans-LightItalic.6a1b5f8191fd9a7726a9.ttf",
+    "static/media/OpenSans-Italic.ttf": "/static/media/OpenSans-Italic.414534af074eb1d33601.ttf",
+    "static/media/OpenSans-SemiBoldItalic.ttf": "/static/media/OpenSans-SemiBoldItalic.9252cee734b67d5e400a.ttf",
+    "static/media/logo.png": "/static/media/logo.e547da196cdcfcecb4cb.png",
+    "index.html": "/index.html",
+    "main.4194685f.css.map": "/static/css/main.4194685f.css.map",
+    "main.341607dd.js.map": "/static/js/main.341607dd.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4194685f.css",
+    "static/js/main.341607dd.js"
+  ]
+}
